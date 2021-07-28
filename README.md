@@ -1,1 +1,4 @@
-# First document in trunk
+# Branch 1.0
+
+Preparing Release 1.0.0
+
